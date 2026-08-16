@@ -10,7 +10,7 @@ No. of Weeks: 8
 Project Name: Port Scanner (Python)  
 Project Scope: This project is intended for educational use, providing a foundation for learning socket programming and basic port scanning concepts in Python.
 
-## PROJECT DETAILS
+## PROJECT CHECKLIST
 Source Code: port_scanner.py  
 README File: README.md  
 Screenshots: Available in the README.md  
