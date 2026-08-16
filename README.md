@@ -10,6 +10,13 @@ No. of Weeks: 8
 Project Name: Port Scanner (Python)  
 Project Scope: This project is intended for educational use, providing a foundation for learning socket programming and basic port scanning concepts in Python.
 
+## project Checklist
+Source Code: port_scanner.py
+README File: README.md
+Screenshots: Available in the README.md
+Output Images: Terminal outputs showing Scanning
+Documentation: See Documentation.md for project scope, features, and tools used and screenshot
+
 
 ## Project Purpose
 The purpose of this project is to demonstrate the basics of socket programming and port scanning in Python. It helps learners understand how services run on different ports and how to identify open connections.
